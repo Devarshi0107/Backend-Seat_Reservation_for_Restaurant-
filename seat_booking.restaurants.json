@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "65f00f27244009862e3f035c"
+  },
+  "image_path": "res1.jpg",
+  "location": "ahemdabad",
+  "name": "Shivas",
+  "rating": "4",
+  "restaurant_id": "1"
+},
+{
+  "_id": {
+    "$oid": "65f6dadb1c34e907bc5180a9"
+  },
+  "image_path": "res2.jpg",
+  "location": "delhi",
+  "name": "kings man",
+  "rating": "4.5",
+  "restaurant_id": "2"
+},
+{
+  "_id": {
+    "$oid": "65f6db851c34e907bc5180aa"
+  },
+  "image_path": "res3.jpg",
+  "location": "jaipur",
+  "name": "Hot and spicy",
+  "rating": "4",
+  "restaurant_id": "3"
+},
+{
+  "_id": {
+    "$oid": "65f6db971c34e907bc5180ab"
+  },
+  "image_path": "res4.jpg",
+  "location": "banglore",
+  "name": "Puff wala",
+  "rating": "4",
+  "restaurant_id": "4"
+},
+{
+  "_id": {
+    "$oid": "65f6dbb11c34e907bc5180ac"
+  },
+  "image_path": "res5.jpg",
+  "location": "ahemdabad",
+  "name": "Amul",
+  "rating": "4",
+  "restaurant_id": "5"
+},
+{
+  "_id": {
+    "$oid": "65f6dbca1c34e907bc5180ad"
+  },
+  "image_path": "res6.jpg",
+  "location": "delhi",
+  "name": "Dali",
+  "rating": "4",
+  "restaurant_id": "6"
+},
+{
+  "_id": {
+    "$oid": "65f6dbeb1c34e907bc5180ae"
+  },
+  "image_path": "res7.jpg",
+  "location": "banglore",
+  "name": "Shiv",
+  "rating": "3",
+  "restaurant_id": "7"
+},
+{
+  "_id": {
+    "$oid": "65f6dc0b1c34e907bc5180af"
+  },
+  "image_path": "res8.jpg",
+  "location": "ahemdabad",
+  "name": "Nidhisha",
+  "rating": "4",
+  "restaurant_id": "8"
+},
+{
+  "_id": {
+    "$oid": "65f836847572ae8c38eef8ab"
+  },
+  "image_path": "res1.jpg",
+  "location": "jaipur",
+  "name": "puff wala",
+  "rating": "4",
+  "restaurant_id": "9"
+},
+{
+  "_id": {
+    "$oid": "65f836bd7572ae8c38eef8ac"
+  },
+  "image_path": "res1.jpg",
+  "location": "mumbai",
+  "name": "Murlidhar",
+  "rating": "4",
+  "restaurant_id": "10"
+},
+{
+  "_id": {
+    "$oid": "65f837007572ae8c38eef8ad"
+  },
+  "image_path": "res4.jpg",
+  "location": "jaipur",
+  "name": "Kingsman",
+  "rating": "4",
+  "restaurant_id": "11"
+},
+{
+  "_id": {
+    "$oid": "65f8371a7572ae8c38eef8ae"
+  },
+  "image_path": "res2.jpg",
+  "location": "mumbai",
+  "name": "Om",
+  "rating": "4",
+  "restaurant_id": "12"
+},
+{
+  "_id": {
+    "$oid": "6610d197e95c5d2a5c0f5d1d"
+  },
+  "image_path": "res1.jpg",
+  "location": "lucknow",
+  "name": "Thrill and Chill",
+  "rating": "5",
+  "restaurant_id": "13"
+},
+{
+  "_id": {
+    "$oid": "6610d1dde95c5d2a5c0f5d1f"
+  },
+  "image_path": "res8.jpg",
+  "location": "lucknow",
+  "name": "Flavour Fusion",
+  "rating": "4.5",
+  "restaurant_id": "14"
+}]

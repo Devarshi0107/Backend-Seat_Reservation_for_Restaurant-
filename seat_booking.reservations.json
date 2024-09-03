@@ -1,0 +1,212 @@
+[{
+  "_id": {
+    "$oid": "6613bf2881e73e7f800a1fd6"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-04-09T00:00:00.000Z"
+  },
+  "time_slot": "7-8",
+  "seat_number": [
+    1,
+    2,
+    3
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613fc4647b91152816acea0"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-04-09T00:00:00.000Z"
+  },
+  "time_slot": "9-10",
+  "seat_number": [
+    37,
+    38,
+    39
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613fc8847b91152816acea6"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-04-08T00:00:00.000Z"
+  },
+  "time_slot": "9-10",
+  "seat_number": [
+    1,
+    2,
+    13,
+    14,
+    15
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613fca247b91152816aceaa"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-04-08T00:00:00.000Z"
+  },
+  "time_slot": "9-10",
+  "seat_number": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661400fd47b91152816aceb3"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-04-09T00:00:00.000Z"
+  },
+  "time_slot": "9-10",
+  "seat_number": [
+    40
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663baca5c5beeae8485b1531"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "time_slot": "5-6",
+  "seat_number": [
+    1,
+    2,
+    3
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bb018c5beeae8485b1538"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "time_slot": "9-10",
+  "seat_number": [
+    1,
+    2,
+    5,
+    6,
+    8
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bb060c5beeae8485b153e"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "time_slot": "10-11",
+  "seat_number": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663bb284c5beeae8485b1547"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "time_slot": "7-8",
+  "seat_number": [
+    5,
+    6,
+    7
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e4bc53354d5218d6906e1"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "time_slot": "9-10",
+  "seat_number": [
+    1,
+    2,
+    3,
+    5,
+    6
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e4bf33354d5218d6906e5"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "time_slot": "9-10",
+  "seat_number": [
+    9
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667e45a3ac2f381e43bbdccd"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-06-28T00:00:00.000Z"
+  },
+  "time_slot": "8-9",
+  "seat_number": [
+    1,
+    2
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66899371dc2f1e188a597e99"
+  },
+  "email": "dev77@gmail.com",
+  "date": {
+    "$date": "2024-07-07T00:00:00.000Z"
+  },
+  "time_slot": "8-9",
+  "seat_number": [
+    1,
+    2,
+    5,
+    6
+  ],
+  "__v": 0
+}]
